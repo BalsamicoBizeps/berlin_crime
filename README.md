@@ -1,5 +1,3 @@
-# berlin_crime
-
 <h1>Project: Berlin Crime Statistics</h1>
 
 <h3>Files</h3>
